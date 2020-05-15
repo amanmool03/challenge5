@@ -1,0 +1,16 @@
+main heading color :272E41
+paragraph :A9ABB0
+orange color: F89E88
+footer color : 2A2A38
+
+
+## Typography
+
+### Body 
+
+- Font size: 16px
+
+### Font
+
+- Family: [Be Vietnam](https://fonts.google.com/specimen/Be+Vietnam)
+- Weights: 400, 500, 700
